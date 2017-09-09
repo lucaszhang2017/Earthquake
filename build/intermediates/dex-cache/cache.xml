@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/Downloads/Udacity/Project/Earthquake/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5bc058e85986ce4a9b379a9bc75de1fefb0c4019">
+        <dex dex="/Users/lucas/Downloads/Udacity/Project/Earthquake/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1eea5f69692b6382cdcbe2a861da11653f03fb34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucas/Downloads/Udacity/Project/Earthquake/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/lucas/Downloads/Udacity/Project/Earthquake/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0f58f4cfc4d4f45a5e9f0453265c9e994c21db0f/classes.dex" />
+    </item>
+
+</items>
